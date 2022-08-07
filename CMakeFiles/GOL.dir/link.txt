@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GOL.dir/main.cpp.o -o GOL 

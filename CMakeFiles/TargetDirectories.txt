@@ -1,0 +1,3 @@
+/home/portalmaster555/Programming/C++/conway-gol/CMakeFiles/GOL.dir
+/home/portalmaster555/Programming/C++/conway-gol/CMakeFiles/edit_cache.dir
+/home/portalmaster555/Programming/C++/conway-gol/CMakeFiles/rebuild_cache.dir
