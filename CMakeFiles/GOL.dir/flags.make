@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -I/home/portalmaster555/Programming/C++/conway-gol
 
-CXX_FLAGS = 
+CXX_FLAGS = -std=gnu++11
 
