@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 #include "GOLConfig.h"
 
@@ -16,4 +17,17 @@ int main(int argc, char **argv)
 		return 1;
 	}
 
+	for(int i = 1; i < argc; i++)
+	{
+		if(static_cast<string>(argv[i]).compare("-i") == 0)
+		{
+			cout << "i flag set" << endl;
+		}
+		else
+		{
+			cout << "no i flag" << endl;
+		}
+		
+	}
+	return 0;
 }
