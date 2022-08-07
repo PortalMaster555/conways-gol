@@ -13,6 +13,7 @@ int main(int argc, char **argv)
 			 << GOL_VERSION_MAJOR << "."
 			 << GOL_VERSION_MINOR << "." 
 			 << GOL_VERSION_PATCH <<endl;
+		return 1;
 	}
 
 }
